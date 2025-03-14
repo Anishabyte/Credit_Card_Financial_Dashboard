@@ -6,10 +6,10 @@
 
 # Key Insights
 ## Week on Week Change
+### Revenue increased by 28 % .
 
 ## Overview YTD
 
-### Revenue increased by 28 % .
 ### Total interest is 8 M .
 ### Total transaction amount is 46 M .
 ### Male Customers are contributing more in Revenue 31 M female 26 M .
