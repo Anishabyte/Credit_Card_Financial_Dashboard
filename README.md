@@ -1,5 +1,11 @@
 # Credit_Card_Financial_Dashboard Using PowerBI
 
+## Credit Card Transaction Report
+<img align="center" alt="coding" width="600" height="400" src="Credit Card Transaction Report.png">
+
+## Customer Credit Card Report
+<img align="center" alt="coding" width="600" height="400" src="Customer Credit Card Report.png">
+
  * Developed an interactive dashboard using transaction and customer data from a SQL Database , to provide real time insights.
  *  Streamlined data processing and analysis to monitor key performance metrics and trends
  *  Shared Actionable insights with stakeholders based on dashboard finding to support decision making process.
