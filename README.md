@@ -1,18 +1,14 @@
 # Credit_Card_Financial_Dashboard Using PowerBI
 
-## Credit Card Transaction Report
-<img align="center" alt="coding" width="600" height="400" src="Credit Card Transaction Report.png">
 
-## Customer Credit Card Report
-<img align="center" alt="coding" width="600" height="400" src="Customer Credit Card Report.png">
 
-📌 Project Outline 
+## 📌 Project Outline 
 
  * Developed an interactive dashboard using transaction and customer data from a SQL Database , to provide real time insights.
  *  Streamlined data processing and analysis to monitor key performance metrics and trends
  *  Shared Actionable insights with stakeholders based on dashboard finding to support decision making process.
 
- 🚀Key Insights
+ ## 🚀Key Insights
 -  Week-on-week revenue increased by an impressive 28.8%.
 - Total transaction amount and count saw notable upticks of 2.22% and 1.74%, respectively.
 - Overall revenue stood strong at 57M, with 7.98M in total interest and 46M in total transaction amount.
@@ -22,7 +18,7 @@
 - Activation rate hit a solid 57.5%, while the delinquency rate remained manageable at 6.06%.
 
 
-🤖 Overview year to Date (YTD)
+## 🤖 Overview year to Date (YTD)
 
 - Total interest is 8 M .
 - Total transaction amount is 46 M .
@@ -32,11 +28,18 @@
 - Overall Activation Rate is 57.5 % .
 - Overall Delinquent rate is 6.06 % .
 
-⚙️ Key Takeaways
+## ⚙️ Key Takeaways
 
 Our dashboard offers actionable insights, enabling stakeholders to make informed decisions and drive business growth.
 
-💻 How to use
+## 💻 How to use
 
 Download the Credit Card Financial.pbix file and credit_card.csv and customer.csv file and edit the dashboard as reqiured.
 
+## 📸 Dashboard Preview
+
+## Credit Card Transaction Report
+<img align="center" alt="coding" width="600" height="400" src="Credit Card Transaction Report.png">
+
+## Customer Credit Card Report
+<img align="center" alt="coding" width="600" height="400" src="Customer Credit Card Report.png">
