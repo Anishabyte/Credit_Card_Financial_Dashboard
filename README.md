@@ -33,8 +33,10 @@
 - Overall Delinquent rate is 6.06 % .
 
 ⚙️ Key Takeaways
+
 Our dashboard offers actionable insights, enabling stakeholders to make informed decisions and drive business growth.
 
 💻 How to use
+
 Download the Credit Card Financial.pbix file and credit_card.csv and customer.csv file and edit the dashboard as reqiured.
 
